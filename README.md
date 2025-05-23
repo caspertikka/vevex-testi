@@ -4,7 +4,7 @@ Tervetuloa suorittamaan Vevexin ohjelmistorekryn teknistä testiä. Kloonaa täm
 
 ## Pohjustus
 
-Olemme luoneet feikkitietokannan ja sille clientin: `@/lib/db.ts`, josta saat tehtävässä käytettävät tiedot. Älä muokkaa tätä tiedostoa, käytä sitä sellaisenaan. Testi suoritetaan NextJS -frameworkin puitteissa, apuna saa käyttää mitä tahansa yhteensopivia kirjastoja.
+Olemme luoneet feikkitietokannan ja sille clientin: `@/lib/db.ts`, josta saat tehtävässä käytettävät tiedot. Pyydä tietoja feikkitietokannasta vain serverin puolelta, ikäänkuin se käyttäisi salassapidettävää api-avainta. Älä muokkaa tätä tiedostoa, käytä sitä sellaisenaan. Testi suoritetaan NextJS -frameworkin puitteissa, apuna saa käyttää mitä tahansa yhteensopivia kirjastoja.
 
 ## Tehtävä
 

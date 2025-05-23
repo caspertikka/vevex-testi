@@ -14,7 +14,7 @@ Tehtävänä on rakentaa taulukko, mistä näkee meille tulleet reklamaatiot (`R
 
 Lisää taulukkoon sarakkeet:
 
-1. Reklamoidun huollon (`Service`) osoite.
+1. Reklamoidun huollon (`Service`) osoite
     - Sarakkeen otsikko: Osoite
 2. Reklamoidun huollon (`Service`) asiakkaan (`Customer`) nimi
     - Sarakkeen otsikko: Asiakas
@@ -24,6 +24,8 @@ Lisää taulukkoon sarakkeet:
     - Sarakkeen otsikko: Asentajat
 5. Reklamoidun huollon (`Service`) asiakasvastaavan (`Employee`) nimi
     - Sarakkeen otsikko: Asiakasvastaava
+6. Reklamaation (`Reclamation`) luontipäivämäärä
+    - Sarakkeen otsikko: Luotu
 
 ### Taulukon toiminnallisuus
 

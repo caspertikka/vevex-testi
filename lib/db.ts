@@ -1,5 +1,7 @@
 import { fakerFI as faker } from "@faker-js/faker";
 
+faker.seed(50);
+
 const customers = Array.from({ length: 100 }, () => ({
   id: faker.string.uuid(),
   name: faker.person.fullName(),

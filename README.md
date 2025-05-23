@@ -27,4 +27,5 @@ Lisää taulukkoon sarakkeet:
 
 ### Taulukon toiminnallisuus
 
-Järjestele reklamaatiot reklamaation luontipäivämäärän mukaan (`Reclamation.createdAt`), tuoreimmasta vanhimpaan.
+- Järjestele reklamaatiot reklamaation luontipäivämäärän mukaan (`Reclamation.createdAt`), tuoreimmasta vanhimpaan.
+- Lisää tapa lisätä uusia sekä poistaa reklamaatioita taulukkoon (client side/pelkkä front-end toiminnallisuus riittää).
